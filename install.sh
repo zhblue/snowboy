@@ -4,4 +4,6 @@ sudo pip install adafruit-pca9685
 sudo apt-get install python3-pip python3-scipy python3-pyaudio
 sudo pip3 install adafruit-pca9685
 sudo apt-get install i2c-tools wiringpi swig sox
+cd /snowboy/swig/Python3
+make
 
